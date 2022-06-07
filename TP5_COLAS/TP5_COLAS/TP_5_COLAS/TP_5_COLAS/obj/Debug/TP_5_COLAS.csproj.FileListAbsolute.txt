@@ -1,0 +1,20 @@
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\bin\Debug\TP_5_COLAS.exe.config
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\bin\Debug\TP_5_COLAS.exe
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\bin\Debug\TP_5_COLAS.pdb
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.Form1.resources
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.Properties.Resources.resources
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.csproj.GenerateResource.cache
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.exe
+C:\Users\alejo\OneDrive\Escritorio\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.pdb
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\bin\Debug\TP_5_COLAS.exe.config
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\bin\Debug\TP_5_COLAS.exe
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\bin\Debug\TP_5_COLAS.pdb
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.csprojAssemblyReference.cache
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.Form1.resources
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.Properties.Resources.resources
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.csproj.GenerateResource.cache
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.csproj.CoreCompileInputs.cache
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.exe
+C:\Users\20407501676\Downloads\Nueva carpeta\TP5_COLAS\TP_5_COLAS\TP_5_COLAS\obj\Debug\TP_5_COLAS.pdb
